@@ -6,8 +6,6 @@
   "dependencies": {},
   "devDependencies": {
     "cookie": "^0.3.1",
-    "cookie-parser": "^1.4.3",
-    "md5": "^2.2.1",
     "socket.io": "^2.0.1",
     "xss": "^0.3.3"
   },
